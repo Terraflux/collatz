@@ -14,7 +14,7 @@ public class Collatz {
 	// Crossover Frequencies?
 	// BigInteger XD
 	
-	static int batchSize = 1000; // Size of Mappings
+	static int batchSize = 100000; // Size of Mappings
 	// Values of Individual Inputs (Rewritten Each Iteration)
 	static int returnCount = 0; // Magnitude of Return Time
 	static int returnRunCount = 1; // Magnitude of Run of Equal Return Steps
